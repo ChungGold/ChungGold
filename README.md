@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p align="center"> 
+<img width="300px" src="images/tattoo-circle.png" />
+</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=chunggold&show_icons=true&theme=react&hide=stars,prs,contribs,issues"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunggold&layout=compact&theme=react"/></p>
 <!--
