@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Chung's github stats](https://github-readme-stats.vercel.app/api?username=chunggold&show_icons=true&theme=react&hide=stars,prs,contribs,issues)
+
 <!--
 **ChungGold/ChungGold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
