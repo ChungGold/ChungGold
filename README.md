@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Chung 👋
 <p align="center"> 
 <img width="300px" src="images/tattoo-circle.png" />
 </p>
