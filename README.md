@@ -1,4 +1,5 @@
 ### Hi, my name is Chung 👋
+CSS is my jam. 
 <p align="center"> 
 <img width="300px" src="images/tattoo-circle.png" />
 </p>
