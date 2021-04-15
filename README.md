@@ -2,12 +2,12 @@
 
 <ul>I'm a self-taught front-end developer with the following skills:
   <li>405 1rep squat ATG</li>
+  <li>Lost $1,000 on AMD puts</li>
   <li>Excellent half-guard and side-control</li>
   <li>Ran a half-marathon minus 3 miles</li>
-  <li>Shrimp daddy</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Shrimp breeder</li>
+  <li>Haikyuu stan</li>
+  <li>Bronze I Support Main</li>
 
 </ul>
 <p align="center"> 
