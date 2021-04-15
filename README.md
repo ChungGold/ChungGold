@@ -1,4 +1,15 @@
 ### Hi, my name is Chung 👋
+
+<ul>I'm a self-taught front-end developer with the following skills:
+  <li>405 1rep squat ATG</li>
+  <li>Excellent half-guard and side-control</li>
+  <li>Ran a half-marathon minus 3 miles</li>
+  <li>Shrimp daddy</li>
+  <li></li>
+  <li></li>
+  <li></li>
+
+</ul>
 <p align="center"> 
 <img width="300px" src="images/tattoo-circle.png" />
 </p>
