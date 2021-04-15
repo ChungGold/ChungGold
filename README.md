@@ -1,12 +1,12 @@
 ### Hi, my name is Chung 👋
 
-<ul>I'm a self-taught front-end developer with the following skills:
-  <li>405 1rep squat ATG</li>
-  <li>Lost $1,000 on AMD puts</li>
+<ul>I'm a self-taught front-end developer with the following strenths:
+  <li>405lb 1rep squat ATG</li>
+  <li>Bearish in the market for the past 2 years</li>
   <li>Excellent half-guard and side-control</li>
   <li>An almost half-marathoner</li>
-  <li>Shrimp breeder</li>
-  <li>Haikyuu stan</li>
+  <li>Shrimp breeder freelancer</li>
+  <li>Haikyuu expert</li>
   <li>Bronze I Support Main</li>
 
 </ul>
