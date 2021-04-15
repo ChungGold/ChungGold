@@ -4,7 +4,7 @@
   <li>405 1rep squat ATG</li>
   <li>Lost $1,000 on AMD puts</li>
   <li>Excellent half-guard and side-control</li>
-  <li>Ran a half-marathon minus 3 miles</li>
+  <li>An almost half-marathoner</li>
   <li>Shrimp breeder</li>
   <li>Haikyuu stan</li>
   <li>Bronze I Support Main</li>
