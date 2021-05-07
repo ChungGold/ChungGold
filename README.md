@@ -5,9 +5,7 @@
   <li>Bearish in the market for the past 2 years</li>
   <li>Excellent half-guard and side-control</li>
   <li>An almost half-marathoner</li>
-  <li>Shrimp breeder freelancer</li>
-  <li>Haikyuu expert</li>
-  <li>Bronze I Support Main</li>
+  <li>Shrimp breeder</li>
 
 </ul>
 <p align="center"> 
