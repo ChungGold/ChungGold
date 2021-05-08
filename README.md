@@ -1,8 +1,8 @@
 ### Hi, my name is Chung 👋
 
 <ul>I'm a self-taught front-end developer with the following strenths:
-  <li>405lb 1rep squat ATG</li>
-  <li>Bearish in the market for the past 2 years</li>
+  <li>405lb 1rep squat</li>
+  <li>Lost money with options</li>
   <li>Excellent half-guard and side-control</li>
   <li>An almost half-marathoner</li>
   <li>Shrimp breeder</li>
