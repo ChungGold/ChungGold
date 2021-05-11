@@ -3,7 +3,7 @@
 <ul>I'm a self-taught front-end developer with the following strenths:
   <li>405lb 1rep squat</li>
   <li>Lost money with options</li>
-  <li>Excellent half-guard and side-control</li>
+  <li>Half-guard and side-control player</li>
   <li>An almost half-marathoner</li>
   <li>Shrimp breeder</li>
 
