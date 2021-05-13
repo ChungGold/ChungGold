@@ -4,7 +4,7 @@
   <li>405lb 1rep squat</li>
   <li>Lost money with options</li>
   <li>Half-guard and side-control player</li>
-  <li>An almost half-marathoner</li>
+  <li>Practicing for Marathon</li>
   <li>Shrimp breeder</li>
 
 </ul>
