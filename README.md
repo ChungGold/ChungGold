@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=000000" />
 <h4>Learning</h4>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Nodejs&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=fff" />
 </div>
 <!--
