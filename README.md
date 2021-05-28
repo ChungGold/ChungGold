@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=fff" />
 </div>  
 <h4>Other</h4>
+<img src="https://img.shields.io/badge/-StyledComponents-3178C6?style=flat-square&logo=StyledComponents&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=000000" />
 <h4>Learning</h4>
