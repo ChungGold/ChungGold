@@ -2,8 +2,8 @@
 
 <ul>Self-taught front-end developer with the following strengths:
   <li>405lb 1rep squat</li>
-  <li>Lost money with options</li>
-  <li>Half-guard and side-control player</li>
+  <li>Lost money with on AMD and ETH</li>
+  <li>Half-guard player</li>
   <li>Practicing for Marathon</li>
   <li>Shrimp breeder</li>
 
