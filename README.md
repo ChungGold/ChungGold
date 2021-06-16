@@ -4,7 +4,7 @@
   <li>405lb 1rep squat</li>
   <li>Lost money with on AMD and ETH</li>
   <li>Half-guard player</li>
-  <li>Learning Muay Thai, Boxing, and Wrestling</li>
+  <li>Muay Thai, Boxing, and Wrestling</li>
   <li>Practicing for Marathon</li>
   <li>Shrimp breeder</li>
 
