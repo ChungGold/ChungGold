@@ -1,13 +1,5 @@
 ### Hi, my name is Chung 👋
 
-<ul>Self-taught front-end developer with the following strengths:
-  <li>405lb 1rep squat</li>
-  <li>Lost money with on AMD and ETH</li>
-  <li>Half-guard player</li>
-  <li>Muay Thai, Boxing, and Wrestling</li>
-  <li>Practicing for Marathon</li>
-  <li>Shrimp breeder</li>
-
 </ul>
 <p align="center"> 
 <img width="300px" src="images/tattoo-circle.png" />
