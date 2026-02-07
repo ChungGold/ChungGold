@@ -1,9 +1,6 @@
 ### Hi, my name is Chung 👋
 
 </ul>
-<p align="center"> 
-<img width="300px" src="images/tattoo-circle.png" />
-</p>
 
 <div>
 <div style = "width: 50%;">
